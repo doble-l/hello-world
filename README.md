@@ -1,2 +1,2 @@
 # hello-world
-Para empezar y seguir la guia, enla cual me enseñan como usar GIT
+Asi es la vida viejo. los cambios suceden y ya vez compa ;)
